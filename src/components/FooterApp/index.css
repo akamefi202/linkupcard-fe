@@ -1,0 +1,13 @@
+.footer {
+    margin-top:10px;
+    margin-bottom: 30px;
+}
+  
+.end {
+    margin-bottom: 30px; 
+}
+
+.img-footer {
+    position: relative; 
+    bottom: 2px;
+}

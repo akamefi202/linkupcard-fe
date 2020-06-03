@@ -1,0 +1,36 @@
+.submit {
+    margin-top: 30px !important;
+    background-color: #3aa3ae !important;
+    color: #FFF !important;
+    width: 100%;
+    border: none;
+    height: 40px;
+}
+
+.submit:hover {
+    opacity: 90%;
+}
+
+.buttonWrap {
+    text-align: center;
+}
+
+.linkup-icon {
+    width: 50px;
+}
+
+.other {
+    width: 100%;
+    height: 35px;
+}
+
+.textButton {
+    text-decoration: underline;
+    padding-top: 15px;
+}
+
+.or {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+    text-align: center !important;
+}

@@ -1,0 +1,34 @@
+.main {
+    width: auto;
+    margin-left: auto;
+    margin-Right: auto
+}
+.navBar {
+    background-color: #FAFAFA !important;
+    box-shadow: none !important;
+    border-bottom: none !important;
+}
+.title {
+    color: #3aa3ae !important;
+}
+.a {
+    text-decoration: none;
+}
+.login {
+    color: #341CAA !important;
+    position: absolute !important;
+    right: 1em !important;
+    top: 20% !important;
+    background-color: transparent !important;
+    border-color: #341CAA !important;
+    border-radius: 1px !important;
+}
+
+.logo {
+    width: 120px;
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    margin-left: 0px;
+    padding-left: 0px;
+}

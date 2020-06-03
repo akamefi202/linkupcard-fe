@@ -1,0 +1,150 @@
+.img {
+  max-width: 120%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 120%;
+  margin-left:30%;
+}
+
+.img-features {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+.headline {
+  padding-top: 50px;
+  text-align: left;
+}
+
+.subtitle {
+  text-align: left;
+  font-size: 1.4rem !important;
+}
+
+.highlighter {
+  background-color: #E0F2F1;
+  padding: 3px 5px;
+}
+
+.signUp {
+  margin-top: 50px;
+  background-color: #341CAA;
+  color: #FFF;
+  width: 200px;
+  height: 50px;
+  border: none !important;
+}
+
+.signUp:hover {
+  border: #341CAA !important;
+  color: #341CAA !important;
+}
+
+.under-txt {
+  padding-top: 10px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.margin-top {
+  margin-top: 100px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.sub {
+  font-weight: 800px;
+}
+
+.labels {
+  margin-top:15px;
+}
+
+.modalInput {
+  margin: 0px 10px 10px 0px;
+  width: 100%;
+}
+
+.buttonSubmit {
+  margin-top: 15px;
+}
+
+.card {
+  padding: 50px 30px 50px 30px;
+  background-color: #C4DADC;
+}
+
+.get-started {
+  float: right;
+  background-color: #341CAA;
+  color: #FFF;
+  width: 200px;
+  height: 50px;
+  border: none;
+}
+
+.get-started:hover {
+  border-color: #341CAA !important;
+  color: #341CAA;
+}
+
+.dots {
+  position: absolute;
+  top: -25px;
+  right: -15px;
+  z-index: -10;
+}
+
+.text-center-sm {
+  text-align: center !important;
+}
+
+@media screen and (max-width: 768px) {
+  .headline {
+    padding-top: 25px;
+  }
+  .img {
+    max-width: 100%;
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-top: 50px;
+  }
+  .headline {
+    text-align: center;
+  }
+  .subtitle {
+    text-align: center;
+    font-size: 1.2rem !important;
+  }
+  .signUp {
+    margin-top: 20px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .under-txt {
+    text-align: center
+  }
+  .sm-top {
+    margin-top: 50px;
+  }
+  .get-started {
+    margin-top: 30px;
+    float: left;
+  }
+  .dots {
+    display: none;
+  }
+}
+
